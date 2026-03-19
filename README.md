@@ -1,16 +1,54 @@
-## Hi there 👋
+💻 Ángel Armando Arellano González
+🚀 Software Engineering Student | Web Developer | Tech Enthusiast
 
-<!--
-**Salereee/Salereee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 Tijuana, Baja California
+📧 AngelArmandoArellanoG@gmail.com
+🌐 Portafolio: https://solvetech.com.mx/
 
-Here are some ideas to get you started:
+👨‍💻 Sobre mí
+Soy estudiante de Ingeniería en Software y Tecnologías Emergentes en la UABC, apasionado por el desarrollo web y la creación de soluciones tecnológicas para negocios.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Actualmente estoy enfocado en:
+• Desarrollo de sitios web modernos
+• Diseño de interfaces atractivas
+• Aplicación de tecnología en proyectos reales
+
+Busco seguir creciendo profesionalmente participando en proyectos donde pueda aportar valor y aprender constantemente.
+
+🛠️ Tecnologías y herramientas
+💡 Lenguajes
+• HTML
+• CSS
+• JavaScript
+
+🎨 Diseño & UI
+• Canva
+• Photoshop
+• Inkscape
+
+⚙️ Herramientas
+• Visual Studio Code
+• Git (básico)
+• Microsoft Office (Word, Excel, PowerPoint, Acces)
+• Autocad
+
+📚 Educación
+🎓 Universidad Autónoma de Baja California (UABC) - Ingeniería en Software y Tecnologías Emergentes
+
+🚀 Proyectos
+🌐 Solvetech (Proyecto personal)
+
+📅 2025 – Presente
+• Desarrollo de páginas web para negocios locales
+• Diseño de interfaces web
+• Creación de prototipos digitales
+• Mejora de presencia online de clientes
+
+🎨 Diseño gráfico e identidad visual
+• Creación de diseños digitales
+• Desarrollo de branding para proyectos
+• Diseño de interfaces y elementos visuales
+
+🌎 Idiomas
+• Español: Nativo
+• Inglés: B2
