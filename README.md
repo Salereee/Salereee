@@ -5,6 +5,8 @@
 📧 AngelArmandoArellanoG@gmail.com
 🌐 Portafolio: https://solvetech.com.mx/
 
+---
+
 👨‍💻 Sobre mí
 Soy estudiante de Ingeniería en Software y Tecnologías Emergentes en la UABC, apasionado por el desarrollo web y la creación de soluciones tecnológicas para negocios.
 
