@@ -7,7 +7,7 @@
 
 ---
 
-👨‍💻 Sobre mí <br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Datatype&weight=900&size=25&pause=20000&color=939393&center=true&vCenter=true&width=435&lines=%F0%9F%9A%80+Proyectos)](https://git.io/typing-svg) <BR>
 Soy estudiante de Ingeniería en Software y Tecnologías Emergentes en la UABC, apasionado por el desarrollo web y la creación de soluciones tecnológicas para negocios. <br><br>
 
 Actualmente estoy enfocado en: <br>
