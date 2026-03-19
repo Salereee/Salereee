@@ -13,7 +13,7 @@ Actualmente estoy enfocado en: <br>
 • Diseño UX/UI. <br>
 • Aplicación de tecnología en proyectos reales. <br><br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Datatype&weight=700&size=25&pause=1000&color=939393&repeat=false&width=435&lines=Lenguajes+%7Bl%3A25%2C25%2C64%2C22%2C72%2C14%2C33%2C21%2C79%2C6)](https://git.io/typing-svg) <br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Datatype&weight=700&size=25&pause=1000&color=939393&repeat=false&width=435&lines=%7Bl%3A25%2C25%2C64%2C22%2C72%2C14%2C33%2C21%2C79%2C6+Lenguajes)](https://git.io/typing-svg) <br>
 • HTML <br>
 • CSS <br>
 • JavaScript <br>
