@@ -23,23 +23,5 @@ Actualmente estoy enfocado en: <br>
 • Java <br>
 • C## <br>
 
-🎨 Diseño y UI <br>
-• Canva <br>
-• Photoshop <br>
-• Inkscape <br><br>
-
-⚙️ Herramientas <br>
-• Visual Studio Code <br>
-• Git (básico) <br>
-• Microsoft Office (Word, Excel, PowerPoint, Acces) <br>
-• Autocad <br><br>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Datatype&weight=700&size=25&letterSpacing=&pause=&color=939393&repeat=false&width=435&lines=Educaci%C3%B3n)](https://git.io/typing-svg) <br>
-🎓 Universidad Autónoma de Baja California (UABC) - Ingeniería en Software y Tecnologías Emergentes <br><br>
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Datatype&weight=700&size=25&letterSpacing=&pause=&color=939393&repeat=false&width=435&lines=Proyectos)](https://git.io/typing-svg) <br>
 • Solvetech (Proyecto personal) <br><br>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Datatype&weight=700&size=25&letterSpacing=&pause=&color=939393&repeat=false&width=435&lines=Idiomas)](https://git.io/typing-svg) <br> 
-• Español: Nativo <br>
-• Inglés: B2
