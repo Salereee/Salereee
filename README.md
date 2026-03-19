@@ -1,56 +1,58 @@
-💻 Ángel Armando Arellano González
-🚀 Software Engineering Student | Web Developer | Tech Enthusiast
+💻 Ángel Armando Arellano González <br>
+🚀 Software Engineering Student | Web Developer | Tech Enthusiast <br><br>
 
-📍 Tijuana, Baja California
-📧 AngelArmandoArellanoG@gmail.com
-🌐 Portafolio: https://solvetech.com.mx/
+📍 Tijuana, Baja California <br>
+📧 AngelArmandoArellanoG@gmail.com <br>
+🌐 Portafolio: https://solvetech.com.mx/ <br>
 
 ---
 
-👨‍💻 Sobre mí
-Soy estudiante de Ingeniería en Software y Tecnologías Emergentes en la UABC, apasionado por el desarrollo web y la creación de soluciones tecnológicas para negocios.
+👨‍💻 Sobre mí <br>
+Soy estudiante de Ingeniería en Software y Tecnologías Emergentes en la UABC, apasionado por el desarrollo web y la creación de soluciones tecnológicas para negocios. <br><br>
 
-Actualmente estoy enfocado en:
-• Desarrollo de sitios web modernos
-• Diseño de interfaces atractivas
-• Aplicación de tecnología en proyectos reales
+Actualmente estoy enfocado en: <br>
+• Desarrollo de sitios web modernos <br>
+• Diseño de interfaces atractivas <br>
+• Aplicación de tecnología en proyectos reales <br><br> 
 
-Busco seguir creciendo profesionalmente participando en proyectos donde pueda aportar valor y aprender constantemente.
+Busco seguir creciendo profesionalmente participando en proyectos donde pueda aportar valor y aprender constantemente. <br>
 
-🛠️ Tecnologías y herramientas
-💡 Lenguajes
-• HTML
-• CSS
-• JavaScript
+---
 
-🎨 Diseño & UI
-• Canva
-• Photoshop
-• Inkscape
+🛠️ Tecnologías y herramientas <br>
+💡 Lenguajes <br>
+• HTML <br>
+• CSS <br>
+• JavaScript <br><br>
 
-⚙️ Herramientas
-• Visual Studio Code
-• Git (básico)
-• Microsoft Office (Word, Excel, PowerPoint, Acces)
-• Autocad
+🎨 Diseño & UI <br>
+• Canva <br>
+• Photoshop <br>
+• Inkscape <br><br>
 
-📚 Educación
-🎓 Universidad Autónoma de Baja California (UABC) - Ingeniería en Software y Tecnologías Emergentes
+⚙️ Herramientas <br>
+• Visual Studio Code <br>
+• Git (básico) <br>
+• Microsoft Office (Word, Excel, PowerPoint, Acces) <br>
+• Autocad <br><br>
 
-🚀 Proyectos
-🌐 Solvetech (Proyecto personal)
+📚 Educación <br>
+🎓 Universidad Autónoma de Baja California (UABC) - Ingeniería en Software y Tecnologías Emergentes <br><br>
 
-📅 2025 – Presente
-• Desarrollo de páginas web para negocios locales
-• Diseño de interfaces web
-• Creación de prototipos digitales
-• Mejora de presencia online de clientes
+🚀 Proyectos <br>
+🌐 Solvetech (Proyecto personal) <br><br>
 
-🎨 Diseño gráfico e identidad visual
-• Creación de diseños digitales
-• Desarrollo de branding para proyectos
-• Diseño de interfaces y elementos visuales
+📅 2025 – Presente <br>
+• Desarrollo de páginas web para negocios locales <br>
+• Diseño de interfaces web <br>
+• Creación de prototipos digitales <br>
+• Mejora de presencia online de clientes <br><br>
 
-🌎 Idiomas
-• Español: Nativo
+🎨 Diseño gráfico e identidad visual <br>
+• Creación de diseños digitales <br>
+• Desarrollo de branding para proyectos <br>
+• Diseño de interfaces y elementos visuales <br><br>
+
+🌎 Idiomas <br>
+• Español: Nativo <br>
 • Inglés: B2
