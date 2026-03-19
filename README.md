@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Datatype&weight=700&size=25&pause=1000&color=939393&repeat=false&width=435&lines=Hola+mundo!+%F0%9F%91%8B)](https://git.io/typing-svg) <br>
 💻 Ángel Armando Arellano González <br>
 🚀 Software Engineering Student | Web Developer | Tech Enthusiast <br>
 📍 Tijuana, Baja California <br>
