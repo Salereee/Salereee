@@ -5,23 +5,23 @@
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Datatype&weight=700&size=25&letterSpacing=&pause=&color=939393&repeat=false&width=435&lines=Sobre+m%C3%AD+%7Bl%3A33%2C46%2C13%2C13%2C89%2C12%2C76%2C39%2C4%7D)](https://git.io/typing-svg) <br>
-Soy estudiante de Ingeniería en Software y Tecnologías Emergentes en la UABC, apasionado por el desarrollo web y la creación de soluciones tecnológicas para negocios. <br><br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Datatype&weight=700&size=25&letterSpacing=&pause=&color=939393&repeat=false&width=435&lines=Sobre+m%C3%AD+%7Bl%3A33%2C46%2C13%2C13%2C89%2C12%2C76%2C39%2C4%7D)](https://git.io/typing-svg)
+Soy estudiante de Ingeniería en Software y Tecnologías Emergentes en la UABC, apasionado por el desarrollo web y la creación de soluciones tecnológicas. <br><br>
 
 Actualmente estoy enfocado en: <br>
 • Desarrollo de sitios web modernos <br>
 • Diseño de interfaces atractivas <br>
-• Aplicación de tecnología en proyectos reales <br><br> 
-
-Busco seguir creciendo profesionalmente participando en proyectos donde pueda aportar valor y aprender constantemente. <br>
+• Aplicación de tecnología en proyectos reales <br><br>
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Datatype&weight=700&size=25&letterSpacing=&pause=&color=939393&repeat=false&width=435&lines=Tecnolog%C3%ADas+y+herramientas)](https://git.io/typing-svg) <br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Datatype&weight=700&size=25&letterSpacing=&pause=&color=939393&repeat=false&width=435&lines=Tecnolog%C3%ADas+y+herramientas)](https://git.io/typing-svg
 💡 Lenguajes <br>
 • HTML <br>
 • CSS <br>
-• JavaScript <br><br>
+• JavaScript <br>
+• Java <br>
+• C## <br>
 
 🎨 Diseño & UI <br>
 • Canva <br>
@@ -34,10 +34,10 @@ Busco seguir creciendo profesionalmente participando en proyectos donde pueda ap
 • Microsoft Office (Word, Excel, PowerPoint, Acces) <br>
 • Autocad <br><br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Datatype&weight=700&size=25&letterSpacing=&pause=&color=939393&repeat=false&width=435&lines=Educaci%C3%B3n)](https://git.io/typing-svg) <br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Datatype&weight=700&size=25&letterSpacing=&pause=&color=939393&repeat=false&width=435&lines=Educaci%C3%B3n)](https://git.io/typing-svg)
 🎓 Universidad Autónoma de Baja California (UABC) - Ingeniería en Software y Tecnologías Emergentes <br><br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Datatype&weight=700&size=25&letterSpacing=&pause=&color=939393&repeat=false&width=435&lines=Proyectos)](https://git.io/typing-svg) <br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Datatype&weight=700&size=25&letterSpacing=&pause=&color=939393&repeat=false&width=435&lines=Proyectos)](https://git.io/typing-svg)
 • Solvetech (Proyecto personal) <br><br>
 
 📅 2025 – Presente <br>
