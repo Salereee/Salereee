@@ -1,8 +1,8 @@
 ## Sobre mí
 
-<p> Estudiante de Ingeniería en Software · Desarollador Web </p>
+Estudiante de Ingeniería en Software · Desarollador Web
 
-<p> Tijuana, Baja California </p>
+Tijuana, Baja California
 
 Actualmente me enfoco en:
 
