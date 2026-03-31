@@ -1,12 +1,8 @@
 ## Sobre mí
 
-<p align="center">
-	Estudiante de Ingeniería en Software · Desarollador Web
-</p>
+<p> Estudiante de Ingeniería en Software · Desarollador Web </p>
 
-<p align="center">
-	Tijuana, Baja California · AngelArmandoArellanoG@gmail.com
-</p>
+<p> Tijuana, Baja California </p>
 
 Actualmente me enfoco en:
 
