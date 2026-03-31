@@ -1,8 +1,4 @@
 <p align="center">
-	<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1200&color=6E6E6E&center=true&vCenter=true&repeat=false&width=700&lines=Hola%2C+soy+%C3%81ngel+Armando+Arellano+Gonz%C3%A1lez" alt="Typing SVG" />
-</p>
-
-<p align="center">
 	Software Engineering Student · Web Developer · Tech Enthusiast
 </p>
 
