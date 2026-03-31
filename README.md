@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1200&color=6E6E6E&center=true&vCenter=true&repeat=false&width=700&lines=Hola%2C+soy+%C3%81ngel+Armando+Arellano+Gonz%C3%A1lez" alt="Typing SVG" />
+	Hola, soy Ángel Armando Arellano González
 </p>
 
 <p align="center">
@@ -26,11 +26,7 @@ Actualmente me enfoco en:
 
 ## Tecnologías
 
-<p>
-	<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1200&color=8A8A8A&repeat=false&width=420&lines=Habilidades+y+tecnolog%C3%ADas" alt="Typing SVG" />
-</p>
-
-HTML · CSS · JavaScript · Java · C#
+HTML · CSS · JavaScript · Java · C# · C++ 
 
 ---
 
