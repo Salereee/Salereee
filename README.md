@@ -1,22 +1,41 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Datatype&weight=700&size=25&pause=1000&color=939393&repeat=false&width=435&lines=Hola+mundo!+%F0%9F%91%8B)](https://git.io/typing-svg) <br>
-💻 Ángel Armando Arellano González <br>
-🚀 Software Engineering Student | Web Developer | Tech Enthusiast <br>
-📍 Tijuana, Baja California <br>
-📧 AngelArmandoArellanoG@gmail.com <br>
+<p align="center">
+	<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1200&color=6E6E6E&center=true&vCenter=true&repeat=false&width=700&lines=Hola%2C+soy+%C3%81ngel+Armando+Arellano+Gonz%C3%A1lez" alt="Typing SVG" />
+</p>
+
+<p align="center">
+	Software Engineering Student · Web Developer · Tech Enthusiast
+</p>
+
+<p align="center">
+	Tijuana, Baja California · AngelArmandoArellanoG@gmail.com
+</p>
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Datatype&weight=700&size=25&pause=1000&color=939393&repeat=false&width=435&lines=%7Bl%3A25%2C25%2C64%2C22%2C72%2C14%2C33%2C21%2C79%2C6+Sobre+mi)](https://git.io/typing-svg) <br>
-Soy estudiante de Ingeniería en Software, apasionado por el desarrollo web y la creación de soluciones tecnológicas. <br><br>
+## Sobre mí
 
-Actualmente estoy enfocado en: <br>
-• Desarrollo de landing pages modernos. <br>
-• Diseño UX/UI. <br>
-• Aplicación de tecnología en proyectos reales. <br><br>
+Soy estudiante de Ingeniería en Software con enfoque en desarrollo web y creación de soluciones tecnológicas funcionales, estéticas y centradas en el usuario.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Datatype&weight=700&size=25&pause=1000&color=939393&repeat=false&width=435&lines=%7Bl%3A25%2C25%2C64%2C22%2C72%2C14%2C33%2C21%2C79%2C6+Lenguajes)](https://git.io/typing-svg) <br>
-• HTML <br>
-• CSS <br>
-• JavaScript <br>
-• Java <br>
-• C## <br>
+Actualmente me enfoco en:
+
+- Desarrollo de landing pages modernas.
+- Diseño UX/UI con enfoque en claridad y experiencia.
+- Aplicación de tecnología en proyectos reales.
+
+---
+
+## Tecnologías
+
+<p>
+	<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1200&color=8A8A8A&repeat=false&width=420&lines=Habilidades+y+tecnolog%C3%ADas" alt="Typing SVG" />
+</p>
+
+HTML · CSS · JavaScript · Java · C#
+
+---
+
+## Contacto
+
+Si te interesa colaborar en proyectos web, diseño de interfaces o desarrollo de soluciones digitales, estoy abierto a conectar.
+
+- Email: AngelArmandoArellanoG@gmail.com
