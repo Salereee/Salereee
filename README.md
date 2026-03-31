@@ -1,5 +1,5 @@
 <p align="center">
-	Software Engineering Student · Web Developer · Tech Enthusiast
+	Estudiante de Ingeniería en Software · Desarollador Web
 </p>
 
 <p align="center">
@@ -16,7 +16,6 @@ Actualmente me enfoco en:
 
 - Desarrollo de landing pages modernas.
 - Diseño UX/UI con enfoque en claridad y experiencia.
-- Aplicación de tecnología en proyectos reales.
 
 ---
 
@@ -28,7 +27,7 @@ HTML · CSS · JavaScript · Java · C#
 
 ## Contacto
 
-Si te interesa colaborar en proyectos web, diseño de interfaces o desarrollo de soluciones digitales, estoy abierto a conectar.
+Si te interesa colaborar en proyectos web o diseño de interfaces, estoy abierto a conectar.
 
 - Email: AngelArmandoArellanoG@gmail.com
 - Portafolio: AngelArellano.dev
