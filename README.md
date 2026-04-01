@@ -2,8 +2,6 @@
 
 Estudiante de Ingeniería en Software · Desarollador Web
 
-Tijuana, Baja California
-
 Actualmente me enfoco en:
 
 - Desarrollo de landing pages modernas.
@@ -13,13 +11,11 @@ Actualmente me enfoco en:
 
 ## Tecnologías
 
-HTML · CSS · JavaScript · Java · C#
+HTML · CSS · JavaScript · Java · C# · C++ · Node JS · React
 
 ---
 
 ## Contacto
-
-Si te interesa colaborar en proyectos web o diseño de interfaces, estoy abierto a conectar.
 
 - Email: AngelArmandoArellanoG@gmail.com
 - Portafolio: AngelArellano.dev
