@@ -1,17 +1,32 @@
+
 ## Sobre mí
 
-Estudiante de Ingeniería en Software · Desarollador Web
+**Desarrollador Web Junior y estudiante de Ingeniería en Software.**
 
-Actualmente me enfoco en:
+**Actualmente me enfoco en:**
 
-- Desarrollo de landing pages modernas.
-- Diseño UX/UI con enfoque en claridad y experiencia.
+- Desarrollo de landing pages modernas y optimizadas para conversión.
+- Diseño UX/UI centrado en claridad, usabilidad y experiencia del usuario.
+- Implementación de soluciones prácticas para negocios.
 
 ## Tecnologías
 
-HTML · CSS · JavaScript · Java · C# · C++ · Node JS · React
+**Desarollo web:**
+- HTML 
+- CSS 
+- JavaScript  
+- Node JS 
+- React
+
+**Lenguajes de Programación:**
+
+- Java 
+- C# 
+- C++
 
 ## Contacto
 
-- Email: AngelArmandoArellanoG@gmail.com
-- Portafolio: AngelArellano.dev
+- **Email: AngelArmandoArellanoG@gmail.com**
+- **Portafolio: [AngelArellano.Dev](AngelArellano.dev)**
+
+
