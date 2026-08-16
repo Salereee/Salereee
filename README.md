@@ -1,7 +1,7 @@
 
 ## Sobre mí
 
-**Desarrollador Web Junior y estudiante de Ingeniería en Software.**
+**Desarrollador Web y estudiante de Ingeniería en Software.**
 
 ## Contacto
 
