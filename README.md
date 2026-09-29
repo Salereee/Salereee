@@ -16,11 +16,7 @@
 
 ## Tecnologías
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html%2Ccss%2Cjs%2Cts%2Creact%2Cnodejs%2Cvite%2Cjava%2Ccs%2Ccpp%2Cgit%2Ccloudflare&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html%2Ccss%2Cjs%2Cts%2Creact%2Cnodejs%2Cvite%2Cjava%2Ccs%2Ccpp%2Cgit%2Ccloudflare&theme=light">
-  <img alt="HTML, CSS, JavaScript, TypeScript, React, Node.js, Vite, Java, C#, C++, Git y Cloudflare" src="https://skillicons.dev/icons?i=html%2Ccss%2Cjs%2Cts%2Creact%2Cnodejs%2Cvite%2Cjava%2Ccs%2Ccpp%2Cgit%2Ccloudflare&theme=dark">
-</picture>
+<img alt="HTML, CSS, JavaScript, TypeScript, React, Node.js, Vite, Java, C#, C++, Git y Cloudflare" src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,vite,java,cs,cpp,git,cloudflare&perline=12">
 
 ## Proyecto destacado
 
