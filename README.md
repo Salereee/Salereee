@@ -6,7 +6,7 @@
 
 ## Sobre mí
 
-**Desarrollador y estudiante de Ingeniería en Software.** Diseño y desarrollo sitios para negocios de Baja California y aplicaciones web que funcionan sin conexión.
+Diseño y desarrollo sitios para negocios de Baja California y aplicaciones web que funcionan sin conexión.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/enfoque-oscuro.jpg">
